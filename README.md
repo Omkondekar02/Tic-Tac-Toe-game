@@ -1,7 +1,3 @@
-Here is a GitHub README for your Tic-Tac-Toe game:  
-
----
-
 # Tic-Tac-Toe Game 🎮
 
 A simple two-player Tic-Tac-Toe game implemented in Python. The game allows two players to take turns, checks for winning conditions, and provides an option to play multiple rounds.
@@ -18,17 +14,6 @@ A simple two-player Tic-Tac-Toe game implemented in Python. The game allows two 
 - Loops
 - Conditional Statements
 
-## 🚀 How to Run the Game
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
-   ```
-2. Run the script:
-   ```sh
-   python tic_tac_toe.py
-   ```
-
 ## 📝 How to Play
 - Players take turns entering their moves.
 - Enter the position (row, column) where you want to place your symbol (X or O).
@@ -42,9 +27,3 @@ A simple two-player Tic-Tac-Toe game implemented in Python. The game allows two 
 - GUI-based version using Tkinter or Pygame
 - AI-powered single-player mode
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
----
-
-Would you like me to customize this further or include code snippets? 😊
